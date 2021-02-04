@@ -4,8 +4,8 @@ from tobrot.sample_config import Config
 
 class Config(Config):
     TG_BOT_TOKEN= "1648872351:AAEmxec7zxZ-eLrGBSx7sOzBw_h-45U-Tw8" #imp
-    APP_ID = 11your39l3 #imp
-    API_HASH = "7e4d0fb30703f1746b65310c62a41807" #imp
+    APP_ID = 1827530 #imp
+    API_HASH = "c99ff9cabafdcbb60c3a68e51154ea44" #imp
     AUTH_CHANNEL = [-100138716715, your_id] #imp replace your_id with your id from telegram or delete
     INDEX_LINK = "https://td-zone.ottotv.workers.dev/0:
     GLEECH_COMMAND = "gleech@Torrent_Leech_Gdrive_bot"
