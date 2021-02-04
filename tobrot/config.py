@@ -6,7 +6,7 @@ class Config(Config):
     TG_BOT_TOKEN= "1648872351:AAEmxec7zxZ-eLrGBSx7sOzBw_h-45U-Tw8" #imp
     APP_ID = 1827530 #imp
     API_HASH = "c99ff9cabafdcbb60c3a68e51154ea44" #imp
-    AUTH_CHANNEL = [-100138716715, your_id] #imp replace your_id with your id from telegram or delete
+    AUTH_CHANNEL = [-1001347170767, 1219436771] #imp replace your_id with your id from telegram or delete
     INDEX_LINK = "https://td-zone.ottotv.workers.dev/0:
     GLEECH_COMMAND = "gleech@Torrent_Leech_Gdrive_bot"
     YTDL_COMMAND = 'ytdl@Torrent_Leech_Gdrive_bot'
