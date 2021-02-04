@@ -16,8 +16,8 @@ class Config(Config):
     RCLONE_CONFIG = """
 [DRIVE]
 type = drive
-client_id = 28dslkgjsdl-fill-your-details-apps.googleusercontent.com
-client_secret = 6Tib48-fill-your-details-KuXXDX-eWgnRBYc
+client_id = 664945674728-jb5ogcs6fh2k5dalfm39jnrcjsm9dn28.apps.googleusercontent.com
+client_secret = hlFLiFk-6nqRSwPVs7BW8ZwL
 scope = drive
 root_folder_id =
 token = {"access_token":"ya29.a-fill-your-details-af4ychuHswBt8X0nf2oWmczsHg6MYPSE6hXo-PJ-fill-your-details-s06KAecfw_H-tYThBtbs:20:25.430920315Z"}
